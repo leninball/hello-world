@@ -1,5 +1,18 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
-    <string name="app_title">Bienvenido</string>
-    <string name="button_welcome">Entrar</string>
+    <string name="app_name">Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="key_nombre">Nombre</string>
+    <string name="key_telefono">Telefono</string>
+    <string name="key_email">Email</string>
+    <string name="key_fecha">Fecha</string>
+    <string name="key_descripcion">Descripcion</string>
+    <string name="key_anio">Descripcion</string>
+    <string name="key_mes">Descripcion</string>
+    <string name="key_dia">Descripcion</string>
 </resources>
+
